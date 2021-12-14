@@ -1,10 +1,10 @@
-# Readme generator 
+# Fun Times 
 
-  ![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![GitHub License](https://img.shields.io/badge/License-Apache2.0-blue.svg)
 
   ## Description
 
-  it does readme stuff
+  This applications helps the  user have fun times.
 
   ## Table of Contents
 
@@ -13,29 +13,29 @@
   * [License](#license)
   * [Contributions](#contributions)
   * [Test](#test)
-  * [Questions](#github)
+  * [Questions](#questions)
    
   ## Installation
 
-  please install node.js
+  Nothing needed here
 
   ## Usage
   
-  use it for stuff
+  This application is intended for fun times
 
   ## License
-    This is license MIT
+    This is license Apache2.0
 
   ## Contributions
 
-  do stuff
+  Make sure to have fun times when using this application
 
   ## Test
 
-  test stuff
+  No need to test anything. Fun times are had all around.
 
   ## Questions
 
   Feel free to reach out with any questions to:
-  username
-  email
+  bigzeus2005
+  jesus.rosa75@yahoo.com
