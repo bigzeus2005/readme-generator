@@ -1,6 +1,6 @@
 # Fun test 
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description
 
@@ -17,25 +17,26 @@
    
   ## Installation
 
-  Install it
+  Install the application
 
   ## Usage
   
-  Use it
+  use the application
 
   ## License
-    This is license Apache2.0
+    This is license BSD
 
   ## Contributions
 
-  None
+  None at this time
 
   ## Test
 
-  None
+  Testing now
 
   ## Questions
 
   Feel free to reach out with any questions to:
-  bigzeus2005
+  https://github.com/bigzeus2005/
+  
   jesus.rosa75@yahoo.com
