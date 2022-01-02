@@ -1,10 +1,10 @@
-# Fun Times 
+# Fun test 
 
-  ![GitHub License](https://img.shields.io/badge/License-Apache2.0-blue.svg)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  This applications helps the  user have fun times.
+  Testing the application
 
   ## Table of Contents
 
@@ -17,22 +17,22 @@
    
   ## Installation
 
-  Nothing needed here
+  Install it
 
   ## Usage
   
-  This application is intended for fun times
+  Use it
 
   ## License
     This is license Apache2.0
 
   ## Contributions
 
-  Make sure to have fun times when using this application
+  None
 
   ## Test
 
-  No need to test anything. Fun times are had all around.
+  None
 
   ## Questions
 
